@@ -6,6 +6,6 @@ public class Main {
     }
 
     private static String getMessage() {
-        return "Test1";
+        return "Test3";
     }
 }
